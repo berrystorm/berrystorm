@@ -4,7 +4,7 @@ I am a mathematician who loves programming.
 
 - 🔭 I’m currently working on my personal Python projects.
 - 🌱 I’m currently learning Manim, data analytics, and machine learning.
-- 👯 I’m looking to collaborate on math-related packages.
+- 👯 I’m looking to collaborate on math visualization packages.
 - 🤔 I’m looking for help with content ideas around math.
 - 💬 Ask me about math, programming, and life.
 - 📫 How to reach me: stanley.salim85@gmail.com
